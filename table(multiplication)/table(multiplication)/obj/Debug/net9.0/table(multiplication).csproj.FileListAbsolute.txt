@@ -1,0 +1,14 @@
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\bin\Debug\net9.0\table(multiplication).exe
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\bin\Debug\net9.0\table(multiplication).deps.json
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\bin\Debug\net9.0\table(multiplication).runtimeconfig.json
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\bin\Debug\net9.0\table(multiplication).dll
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\bin\Debug\net9.0\table(multiplication).pdb
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\table(multiplication).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\table(multiplication).AssemblyInfoInputs.cache
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\table(multiplication).AssemblyInfo.cs
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\table(multiplication).csproj.CoreCompileInputs.cache
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\table(multiplication).dll
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\refint\table(multiplication).dll
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\table(multiplication).pdb
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\table(multiplication).genruntimeconfig.cache
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\table(multiplication)\table(multiplication)\obj\Debug\net9.0\ref\table(multiplication).dll

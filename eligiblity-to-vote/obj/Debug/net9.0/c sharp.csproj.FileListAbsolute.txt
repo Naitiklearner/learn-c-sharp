@@ -1,0 +1,28 @@
+C:\Users\Naitik-local\Documents\c sharp\bin\Debug\net9.0\c sharp.exe
+C:\Users\Naitik-local\Documents\c sharp\bin\Debug\net9.0\c sharp.deps.json
+C:\Users\Naitik-local\Documents\c sharp\bin\Debug\net9.0\c sharp.runtimeconfig.json
+C:\Users\Naitik-local\Documents\c sharp\bin\Debug\net9.0\c sharp.dll
+C:\Users\Naitik-local\Documents\c sharp\bin\Debug\net9.0\c sharp.pdb
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\c sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\c sharp.AssemblyInfoInputs.cache
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\c sharp.AssemblyInfo.cs
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\c sharp.csproj.CoreCompileInputs.cache
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\c sharp.dll
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\refint\c sharp.dll
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\c sharp.pdb
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\c sharp.genruntimeconfig.cache
+C:\Users\Naitik-local\Documents\c sharp\obj\Debug\net9.0\ref\c sharp.dll
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\bin\Debug\net9.0\c sharp.exe
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\bin\Debug\net9.0\c sharp.deps.json
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\bin\Debug\net9.0\c sharp.runtimeconfig.json
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\bin\Debug\net9.0\c sharp.dll
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\bin\Debug\net9.0\c sharp.pdb
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\c sharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\c sharp.AssemblyInfoInputs.cache
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\c sharp.AssemblyInfo.cs
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\c sharp.csproj.CoreCompileInputs.cache
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\c sharp.dll
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\refint\c sharp.dll
+c:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\c sharp.pdb
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\c sharp.genruntimeconfig.cache
+C:\Users\Naitik-local\Documents\GitHub\learn-c#\eligiblity-to-vote\obj\Debug\net9.0\ref\c sharp.dll
