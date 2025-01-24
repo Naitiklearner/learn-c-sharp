@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-namespace eligiblity_to_vote 
+namespace table 
 {
     class Program
     {
@@ -15,7 +15,7 @@ namespace eligiblity_to_vote
             
             if (Password == "naitik")
             {
-                Console.Write("Enter the number of which table you want to print: ");
+                Console.Write("Enter the number of table which you want to print: ");
 
                 int intnum = Convert.ToInt32(Console.ReadLine());
 
